@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/markdown-previewer/static/css/main.cd0df220.chunk.css",
+    "main.js": "/markdown-previewer/static/js/main.3ecd9e20.chunk.js",
+    "main.js.map": "/markdown-previewer/static/js/main.3ecd9e20.chunk.js.map",
+    "runtime-main.js": "/markdown-previewer/static/js/runtime-main.2b898bcd.js",
+    "runtime-main.js.map": "/markdown-previewer/static/js/runtime-main.2b898bcd.js.map",
+    "static/css/2.0ba51b69.chunk.css": "/markdown-previewer/static/css/2.0ba51b69.chunk.css",
+    "static/js/2.861a9223.chunk.js": "/markdown-previewer/static/js/2.861a9223.chunk.js",
+    "static/js/2.861a9223.chunk.js.map": "/markdown-previewer/static/js/2.861a9223.chunk.js.map",
+    "index.html": "/markdown-previewer/index.html",
+    "precache-manifest.84c0b91e3af52af94d5b7e13f4ed5fed.js": "/markdown-previewer/precache-manifest.84c0b91e3af52af94d5b7e13f4ed5fed.js",
+    "service-worker.js": "/markdown-previewer/service-worker.js",
+    "static/css/2.0ba51b69.chunk.css.map": "/markdown-previewer/static/css/2.0ba51b69.chunk.css.map",
+    "static/css/main.cd0df220.chunk.css.map": "/markdown-previewer/static/css/main.cd0df220.chunk.css.map",
+    "static/media/font-awesome.min.css": "/markdown-previewer/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/bootstrap.css": "/markdown-previewer/static/media/glyphicons-halflings-regular.fa277232.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b898bcd.js",
+    "static/css/2.0ba51b69.chunk.css",
+    "static/js/2.861a9223.chunk.js",
+    "static/css/main.cd0df220.chunk.css",
+    "static/js/main.3ecd9e20.chunk.js"
+  ]
+}
